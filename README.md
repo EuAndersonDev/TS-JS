@@ -17,30 +17,6 @@ This course focuses on building full-stack applications using JavaScript and Typ
 - **MongoDB:** NoSQL database used for flexible, document-based storage.
 - **API RESTful:** Design of RESTful APIs for back-end communication and services.
 
-## 📁 Project Structure
-
-```
-/root-directory
-│
-├── /src                  # Main source code for the exercises/projects
-│   ├── /frontend         # Next.js frontend files (React components, pages)
-│   ├── /backend          # Backend API (Node.js, Express.js, API logic)
-│   ├── /js               # JavaScript files for the course
-│   └── /ts               # TypeScript files for the course
-│
-├── /database             # Database scripts and configurations (MySQL, MongoDB)
-│   ├── /mysql            # MySQL-specific scripts (migrations, schema)
-│   └── /mongodb          # MongoDB-specific collections and queries
-│
-├── /tests                # Unit and integration tests
-│
-├── /docs                 # Course notes, resources, and explanations
-│
-├── package.json          # Project metadata and dependencies
-│
-└── README.md             # This file
-```
-
 ## 🔧 Installation & Setup
 
 Follow these steps to set up and run the project locally:
